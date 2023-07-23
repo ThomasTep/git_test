@@ -1,0 +1,3 @@
+Trying to add some lines to this doc for Odin lesson. Going to 
+Continued from line 1 - going to have to save with control S, then 
+stage then add to directory. we'll see how it goes.
